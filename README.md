@@ -1,0 +1,4 @@
+- 👋 I’m @PanzerTigerI
+- 👀 I’m plugin developer to the dumb monsters game.
+- 🌱 I’m currently learning C# & Python.
+- ⚡ Fun fact: I love Pierogi,
